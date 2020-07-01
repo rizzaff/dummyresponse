@@ -2,20 +2,6 @@
   "digilend": {
     "responseCode": "00",
     "responseDesc": "Approved",
-    "data": {
-      "uangPinjaman": "0",
-      "sewaModal": "0",
-      "dendaKeterlambatan": "0",
-      "biayaProsesPenagihan": "0",
-      "totalKewajiban": "0",
-      "tanggalJatuhTempo": "2020-06-08",
-      "statusPinjaman": "Aktif",
-      "tanggalLunas": "2020-04-20",
-      "tenor": "50",
-      "kolektibilitas": "1",
-      "nomorKredit": "0115873708611744",
-      "nomorVa": "9889123880000036",
-      "bank": "BNI"
-    }
+    "data": "{\"uangPinjaman\":\"0\",\"sewaModal\":\"0\",\"dendaKeterlambatan\":\"0\",\"biayaProsesPenagihan\":\"0\",\"totalKewajiban\":\"0\",\"tanggalJatuhTempo\":\"2020-06-08\",\"statusPinjaman\":\"Lunas\",\"tanggalLunas\":\"2020-04-20\",\"tenor\":\"50\",\"kolektibilitas\":\"\",\"nomorKredit\":\"0115873708611744\",\"nomorVa\":\"9889123880000036\",\"bank\":\"BNI\"}"
   }
 }
