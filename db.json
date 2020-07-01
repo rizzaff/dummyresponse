@@ -1,21 +1,19 @@
 {
-  "digilend" : {
-		"responseCode": "00",
-		"responseDesc": "Approved",
-		"data": {
-			"uangPinjaman":"0",
-			"sewaModal":"0",
-			"dendaKeterlambatan":"0",
-			"biayaProsesPenagihan":"0",
-			"totalKewajiban":"0",
-			"tanggalJatuhTempo":"2020-06-08",
-			"statusPinjaman":"Lunas",
-			"tanggalLunas":"2020-04-20",
-			"tenor":"50",
-			"kolektibilitas":"1",
-			"nomorKredit":"0115873708611744",
-			"nomorVa":"9889123880000036",
-			"bank":"BNI"
-		  }
-	  }
+  "digilend": {
+    "responseCode": "00",
+    "responseDesc": "Approved",
+    "data": {
+      "created_at": "2017-09-11 12:16:24",
+      "invoice_id": "INV-201709111-001-001",
+      "status": "menunggu-pembayaran",
+      "delivery_address": "Jl. Margonda I Gg. Rajawali 19",
+      "delivery_province": "DKI Jakarta",
+      "delivery_city": "Jakarta Selatan",
+      "delivery_district": "Setiabudi",
+      "delivery_zipcode": "12398",
+      "delivery_phone": "08562345623",
+      "delivery_receiver": "John Doe",
+      "price_total": 2500000
+    }
+  }
 }
