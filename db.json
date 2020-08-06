@@ -1,7 +1,27 @@
 {
   "digilend": {
-    "responseCode": "00",
-    "responseDesc": "Approved",
-    "data": "{\"uangPinjaman\":\"400000000\",\"sewaModal\":\"4000000\",\"dendaKeterlambatan\":\"0\",\"biayaProsesPenagihan\":\"0\",\"totalKewajiban\":\"0\",\"tanggalJatuhTempo\":\"2020-06-08\",\"statusPinjaman\":\"Lunas\",\"tanggalLunas\":\"2020-04-20\",\"tenor\":\"50\",\"kolektibilitas\":\"\",\"nomorKredit\":\"0115873708611744\",\"nomorVa\":\"9889123880000036\",\"bank\":\"BNI\"}"
+    "code": 201,
+    "data": {
+      "fileToken": "123456789",
+      "urlDocument": "https://file-examples-com.github.io/uploads/2017/10/file-sample_150kB.pdf",
+      "recipients": [
+        {
+          "email": "example@mail.com",
+          "type": "Signer",
+          "token": null
+        },
+        {
+          "email": "example@mail.com",
+          "type": "Signer",
+          "token": null
+        },
+        {
+          "rizzaId": "AA0011",
+          "type": "Approver",
+          "token": "987654321"
+        }
+      ]
+    },
+    "message": "success"
   }
 }
